@@ -5,7 +5,7 @@ const listtdl = document.querySelector('.todolist')
 function clickButton(e) {
     e.preventDefault()
     addTodo()
-    console.log("sending data")
+    
 }
 
 // adding todolist

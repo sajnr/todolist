@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: linear-gradient(to right, purple, green, red);
+    background-image: linear-gradient(to right, purple , green, red);
 margin: 50px 2%;
 }
 
@@ -85,7 +85,7 @@ margin: 50px 2%;
     margin-bottom: 2px;
 }
 
-item, .check-button, .trash-button{
+.item, .check-button, .trash-button{
     border: none;
     background-color: white;
     min-height: 50px;
